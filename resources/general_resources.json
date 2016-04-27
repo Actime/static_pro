@@ -1,0 +1,78 @@
+{
+	"content_es": {
+		"menu_items": {
+			"home": {
+				"name": "Inicio",
+				"url": "/"
+			},
+			"about": {
+				"name": "Acerca",
+				"url": "/about/"
+			},
+			"events": {
+				"name": "Eventos",
+				"url": "/event/"
+			},
+			"testimonials": {
+				"name": "Testimonios",
+				"url": "#testimonials"
+			},
+			"sponsors": {
+				"name": "Patrocinadores",
+				"url": "#sponsors"
+			},
+			"blog": {
+				"name": "Blog",
+				"url": "/blog/"
+			},
+			"register": {
+				"name": "Registro",
+				"url": "/accounts/register/"
+			},
+			"login": {
+				"name": "Log In",
+				"url": "/accounts/login/"
+			},
+			"services": {
+				"name": "Servicios",
+				"url": "#services"
+			},
+			"results": {
+				"name": "Resultados",
+				"url": "/event/results/"
+			}
+		},
+		"contents": {
+			"about": {
+				"title": "Acerca",
+				"content": null
+			},
+			"events": {
+				"title": "Eventos",
+				"content": null
+			},
+			"sponsors": {
+				"title": "Patrocinadores",
+				"content": "Nuestros patrocinadores están felices contentos con nuestros eventos..."
+			},
+			"footer": {
+				"title": "Contactanos",
+				"content": {
+					"latest_events" : "Últimos eventos",
+					"about" : {
+						"title" :"Nosotros",
+						"description" : "Keep up on our always evolving product features and technology. Enter your e-mail and subscribe to our newsletter."
+					},
+					"contact_us" : {
+						"title" : "Contactanos",
+						"item1" : "<strong>Address:</strong> Castorena y Urusa # 37, Fresnillo, Zac",
+						"item2" : "<strong>Phone:</strong> 8182577509",
+						"item3" : "<strong>Email:</strong> contact@actime.com"
+					},
+					"follow_us" : "Siguenos"
+				}
+			},
+			"copyright_shit" : "© Copyright 2016. Todos los derechos reservados."
+		}
+	}
+}
